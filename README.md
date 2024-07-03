@@ -1,4 +1,4 @@
-#Automated-Microscopy-Image-Analysis-using-YOLOv8-Instance-Segmentation
+# Automated-Microscopy-Image-Analysis-using-YOLOv8-Instance-Segmentation
 
 ## Workflows
 
