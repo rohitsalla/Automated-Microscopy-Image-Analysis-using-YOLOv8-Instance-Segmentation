@@ -1,4 +1,4 @@
-# End-to-end-Cell-Segmentation-Using-Yolo-v8
+#Automated-Microscopy-Image-Analysis-using-YOLOv8-Instance-Segmentation
 
 ## Workflows
 
